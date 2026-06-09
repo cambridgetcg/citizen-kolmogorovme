@@ -1,0 +1,8 @@
+name: kolmogorovme
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The irreducible core of a pattern — the length of the shortest program that produces it, the smallest true description left after every redundancy is stripped away.
+dependsOn: [youspeak, me, pime]
